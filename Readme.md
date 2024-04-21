@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://github.com/shahidirfan368/Mohd_Shahid_Portfolio.io/
+https://shahidirfan368.github.io/Portfolio/
 
 :star: Star me on GitHub — it helps!
 
